@@ -1,4 +1,8 @@
 # aura
+# Set up raspberry the Raspberry Pi and configure it for the project
+# Demosntrate basic understanding of Python coding
+# Demonstrate basic understnading of Raspberry Pi I/O
+# Demonstrate basic understadning of Pygame
 phase 1 base code
 """
  Milestone C - Software Design and Integration
