@@ -1,11 +1,11 @@
 # aura
 # Set up raspberry the Raspberry Pi and configure it for the project
 # Demosntrate basic understanding of Python coding
-# Demonstrate basic understnading of Raspberry Pi I/O
-# Demonstrate basic understadning of Pygame
-phase 1 base code
+# Demonstrate basic understanding of Raspberry Pi I/O
+# Demonstrate basic understanding of Pygame
+# phase 1 base code
 """
- Milestone C - Software Design and Integration
+ # Milestone C - Software Design and Integration
  
  Lesson 0:
  Blank Pygame Template with Raspberry Pi GPIO
